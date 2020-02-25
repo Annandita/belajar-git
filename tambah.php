@@ -25,9 +25,9 @@
 		height: 100px;
 	}
 	.button{
-		background: gold;
+		background: black;
 		color: white;
-		border: solid gold;
+		border: solid black;
 		font-weight: bold;
 		border-radius: 30px;
 		width: 100px;
